@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Telemetry_python2LabVIEW_bluetooth_receiver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Telemetry_python2LabVIEW_bluetooth_receiver old" vcs="Git" />
   </component>
 </project>
