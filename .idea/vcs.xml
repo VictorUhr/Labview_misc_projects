@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Telemetry_python2LabVIEW_bluetooth_receiver" vcs="Git" />
   </component>
 </project>
